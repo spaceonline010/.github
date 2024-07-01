@@ -1,4 +1,4 @@
-![SpaceOnline](https://github.com/spacewdonline/.github/blob/main/swdonline.png)
+![SpaceOnline](https://github.com/spacewdonline/.github/blob/main/spacewd.png)
 # SpaceOnline (Short for SpaceWD Online) is SpaceWD's new way to squash internet crime while hosting online game servers for his games.
 # Projects
 # .hl domain experiment
