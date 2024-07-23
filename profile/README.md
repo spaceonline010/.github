@@ -3,4 +3,4 @@
 # Projects
 # .hl domain experiment
 An attempt to figure out an easy way to host domains.
-# SpaceOnline was originally aimed to stop internet crime but I have made the decision to switch the direction to a game company.
+# SpaceOnline was originally aimed to stop internet crime but I have made the decision to permenantly switch the direction to a game company.
